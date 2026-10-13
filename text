@@ -1,2 +1,17 @@
 this is my second time to create and push to github
-
+drwxr-xr-x 2 vedant vedant 4096 Sep 29 09:52 2
+drwxr-xr-x 2 vedant vedant 4096 Oct  8 13:24 cloud
+drwxr-xr-x 2 vedant vedant 4096 Oct  1 11:00 day3
+drwxr-xr-x 2 vedant vedant 4096 Sep 29 10:39 devops
+drwxr-xr-x 3 vedant vedant 4096 Oct  6 09:37 diroctory
+-r-xr-xr-x 1 vedant vedant   79 Sep 30 13:11 doctor
+-rw-r--r-- 1 vedant vedant   28 Oct  8 13:46 file.txt
+drwxr-xr-x 3 vedant vedant 4096 Oct 12 10:41 git-practice
+drwxr-xr-x 3 vedant vedant 4096 Oct 13 11:32 github-clone
+-rw-r--r-- 1 zakki  vedant   71 Sep 30 11:55 market
+drwxr-xr-x 3 vedant vedant 4096 Oct 13 10:23 monday
+drwxr-xr-x 2 vedant vedant 4096 Oct  8 13:43 scp-practice
+drwxr-xr-x 2 vedant vedant 4096 Oct  5 10:25 scripts
+lrwxrwxrwx 1 vedant vedant    6 Oct  5 12:00 symlink -> market
+drwxr-xr-x 3 vedant vedant 4096 Oct 13 10:56 tuesday
+vedant@LAPTOP-1KJP13UV:~$ cd tuesday
