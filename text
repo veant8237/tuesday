@@ -15,3 +15,5 @@ drwxr-xr-x 2 vedant vedant 4096 Oct  5 10:25 scripts
 lrwxrwxrwx 1 vedant vedant    6 Oct  5 12:00 symlink -> market
 drwxr-xr-x 3 vedant vedant 4096 Oct 13 10:56 tuesday
 vedant@LAPTOP-1KJP13UV:~$ cd tuesday
+
+this is the new line
